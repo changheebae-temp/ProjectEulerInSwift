@@ -17,10 +17,8 @@ import Foundation
 
 var sumOfMultiples = 0
 
-for dividend in 1..<1000 {
-  if dividend % 3 == 0 || dividend % 5 == 0 {
-    sumOfMultiples += dividend
-  }
+for dividend in 1..<1000 where dividend % 3 == 0 || dividend % 5 == 0 {
+  sumOfMultiples += dividend
 }
 
 print(sumOfMultiples)
