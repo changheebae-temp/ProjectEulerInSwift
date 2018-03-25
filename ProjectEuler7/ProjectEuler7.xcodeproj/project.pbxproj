@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3AB7711320678407009EC42B /* ProjctEuler7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjctEuler7; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AB7711320678407009EC42B /* ProjectEuler7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEuler7; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AB7711620678407009EC42B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		3AB7710A20678407009EC42B = {
 			isa = PBXGroup;
 			children = (
-				3AB7711520678407009EC42B /* ProjctEuler7 */,
+				3AB7711520678407009EC42B /* ProjectEuler7 */,
 				3AB7711420678407009EC42B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		3AB7711420678407009EC42B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3AB7711320678407009EC42B /* ProjctEuler7 */,
+				3AB7711320678407009EC42B /* ProjectEuler7 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3AB7711520678407009EC42B /* ProjctEuler7 */ = {
+		3AB7711520678407009EC42B /* ProjectEuler7 */ = {
 			isa = PBXGroup;
 			children = (
 				3AB7711620678407009EC42B /* main.swift */,
 			);
-			path = ProjctEuler7;
+			path = ProjectEuler7;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3AB7711220678407009EC42B /* ProjctEuler7 */ = {
+		3AB7711220678407009EC42B /* ProjectEuler7 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3AB7711A20678407009EC42B /* Build configuration list for PBXNativeTarget "ProjctEuler7" */;
+			buildConfigurationList = 3AB7711A20678407009EC42B /* Build configuration list for PBXNativeTarget "ProjectEuler7" */;
 			buildPhases = (
 				3AB7710F20678407009EC42B /* Sources */,
 				3AB7711020678407009EC42B /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = ProjctEuler7;
+			name = ProjectEuler7;
 			productName = ProjctEuler7;
-			productReference = 3AB7711320678407009EC42B /* ProjctEuler7 */;
+			productReference = 3AB7711320678407009EC42B /* ProjectEuler7 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3AB7710E20678407009EC42B /* Build configuration list for PBXProject "ProjctEuler7" */;
+			buildConfigurationList = 3AB7710E20678407009EC42B /* Build configuration list for PBXProject "ProjectEuler7" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3AB7711220678407009EC42B /* ProjctEuler7 */,
+				3AB7711220678407009EC42B /* ProjectEuler7 */,
 			);
 		};
 /* End PBXProject section */
@@ -256,7 +256,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3AB7710E20678407009EC42B /* Build configuration list for PBXProject "ProjctEuler7" */ = {
+		3AB7710E20678407009EC42B /* Build configuration list for PBXProject "ProjectEuler7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3AB7711820678407009EC42B /* Debug */,
@@ -265,7 +265,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3AB7711A20678407009EC42B /* Build configuration list for PBXNativeTarget "ProjctEuler7" */ = {
+		3AB7711A20678407009EC42B /* Build configuration list for PBXNativeTarget "ProjectEuler7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3AB7711B20678407009EC42B /* Debug */,
